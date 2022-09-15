@@ -1,5 +1,7 @@
 # Spock Rock Game
 
+Similar to Rock Paper Scissors this game is Rock Paper Scissors Lizard Spock
+
 ![Preview](preview.png)
 
 Live - https://overdrivemachines.github.io/spock-rock-game/
