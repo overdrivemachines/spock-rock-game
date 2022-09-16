@@ -133,7 +133,7 @@ h2 {
   filter: drop-shadow(0 0 20px var(--color-secondary)) drop-shadow(0 0 40px var(--color-secondary))
     drop-shadow(0 0 60px var(--color-secondary));
 }
-#computer .fa-regular:hover,
+
 #computer .fa-regular.selected {
   border-color: var(--color-secondary);
 }
