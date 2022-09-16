@@ -18,7 +18,9 @@ body {
   margin: 0;
   min-height: 100vh;
 
-  font-family: Lato, sans-serif;
+  /* font-family: Lato, sans-serif; */
+  font-family: "Exo", sans-serif;
+  /* letter-spacing: 0.03em; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -98,6 +100,7 @@ h1 span {
 
 h2 {
   margin-bottom: 20px;
+  font-size: 32px;
 }
 
 .fa-regular {
@@ -139,9 +142,11 @@ h2 {
 }
 
 .reset-icon {
-  font-size: 30px;
+  font-size: 32px;
   cursor: pointer;
-  margin-left: 50px;
+  display: block;
+  text-align: center;
+  text-shadow: 0 0 0.05em #fff, 0 0 0.2em var(--color-secondary), 0 0 0.3em var(--color-secondary);
 }
 
 .result-container {
@@ -151,9 +156,15 @@ h2 {
 }
 
 .result-text {
-  font-size: 40px;
+  font-family: "Mr Dafoe";
+  font-size: 5.5em;
   margin: unset;
   margin-top: 20px;
+  margin-bottom: 48px;
+
+  text-shadow: 0 0 0.05em #fff, 0 0 0.2em var(--color-secondary), 0 0 0.3em var(--color-secondary);
+  font-weight: normal;
+  transform: rotate(-7deg);
 }
 
 /* Media Query: Large Smartphone (Vertical) */
