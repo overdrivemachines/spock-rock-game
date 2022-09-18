@@ -16,3 +16,5 @@ Live - https://overdrivemachines.github.io/spock-rock-game/
   - https://css-tricks.com/how-to-create-neon-text-with-css/
   - https://www.w3schools.com/howto/howto_css_glowing_text.asp
 - Switch Statement - https://www.w3schools.com/js/js_switch.asp
+- Confetti JS - https://www.cssscript.com/confetti-falling-animation/
+- JS Modules - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
